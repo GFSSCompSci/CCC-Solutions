@@ -1,4 +1,4 @@
-#Arghya Vyas
+#Written by Arghya Vyas
 vn = int(input())
 votes = input()
 a = votes.count("A")
