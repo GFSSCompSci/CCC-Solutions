@@ -21,5 +21,4 @@ while True:
             count += 1
     cube_root += 1
 
-# Output the result
 print(count)
