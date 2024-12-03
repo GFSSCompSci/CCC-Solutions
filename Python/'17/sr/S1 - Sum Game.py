@@ -1,3 +1,4 @@
+# advay chandorkar
 n = int(input())
 swifts = list(map(int, input().split()))
 sem = list(map(int, input().split()))

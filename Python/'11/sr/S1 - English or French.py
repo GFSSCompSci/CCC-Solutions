@@ -1,3 +1,4 @@
+# advay chandorkar
 num_lines = int(input())
 
 # Count occurrences of 't' and 's' in each line

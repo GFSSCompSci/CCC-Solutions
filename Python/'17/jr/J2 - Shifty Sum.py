@@ -1,3 +1,4 @@
+# advay chandorkar
 n=(input())
 k=int(input())
 sum=0

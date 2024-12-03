@@ -1,3 +1,4 @@
+# advay chandorkar
 import math
 n=int(input())
 chips=[list(map(int, input().split())) for _ in range(n)]

@@ -1,3 +1,4 @@
+# advay chandorkar
 current = 1
 while True:
     n = int(input())

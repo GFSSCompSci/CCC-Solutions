@@ -1,3 +1,4 @@
+# advay chandorkar
 def solve(t, s):    
     for i in range(len(s)):
         if s[i:] + s[:i] in t:

@@ -1,3 +1,4 @@
+# advay chandorkar
 t = int(input())
 played = [set() for _ in range(5)]
 points = [0 for _ in range(5)]

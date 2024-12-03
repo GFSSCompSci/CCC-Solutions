@@ -1,3 +1,4 @@
+# advay chandorkar
 p = int(input()) 
 n = int(input()) 
 r = int(input())

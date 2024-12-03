@@ -1,3 +1,4 @@
+# advay chandorkar
 N = int(input())
 boards = input().split()
 L = [0]*2001

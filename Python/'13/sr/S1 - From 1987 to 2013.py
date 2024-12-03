@@ -1,3 +1,4 @@
+# advay chandorkar
 n=int(input())
 n+=1
 while(len(set(str(n)))!=len(str(n))):

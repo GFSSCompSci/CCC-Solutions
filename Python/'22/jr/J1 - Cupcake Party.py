@@ -1,3 +1,4 @@
+# advay chandorkar
 R = int(input())
 S = int(input())
 

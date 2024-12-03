@@ -1,3 +1,4 @@
+# advay chandorkar
 def encode(s):
     encoding = []
     count = 1

@@ -1,3 +1,4 @@
+# advay chandorkar
 players = int(input())
 gold_team_counter = 0
 

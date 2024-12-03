@@ -1,3 +1,4 @@
+# advay chandorkar
 N = int(input())
 
 table = []

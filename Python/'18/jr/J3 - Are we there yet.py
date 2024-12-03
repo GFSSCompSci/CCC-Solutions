@@ -1,3 +1,4 @@
+# advay chandorkar
 nums = list(map(int, input().split()))
 sumx=[0, sum(nums[:1]), sum(nums[:2]), sum(nums[:3]), sum(nums[:4])]
 z=[]

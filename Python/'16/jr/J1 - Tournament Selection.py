@@ -1,3 +1,4 @@
+# advay chandorkar
 games = [input()for i in range(6)]
 win = games.count('W')
 

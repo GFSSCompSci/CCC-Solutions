@@ -1,3 +1,5 @@
+# advay chandorkar
+
 n = int(input())
 count = 0
 people = []

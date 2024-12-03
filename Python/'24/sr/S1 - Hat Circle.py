@@ -1,3 +1,5 @@
+# advay chandorkar 
+
 N = int(input())
 hats = [int(input()) for _ in range(N)]
 
